@@ -245,5 +245,5 @@ $reklama",
 *@BotirRaimqulovUz
 *Siz istagan turdagi botlarni yaratib
 *beramiz
-*Manbaasiz olgan koʻt
+*Manbaasiz olgan ko
 */
